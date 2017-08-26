@@ -1,0 +1,16 @@
+[
+{
+  "modid": "in",
+  "name": "Initials",
+  "description": "Initial mod.",
+  "version": "${0.1}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Artinity"],
+  "credits": "Artinity",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

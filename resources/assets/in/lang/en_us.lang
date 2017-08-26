@@ -1,0 +1,20 @@
+item.nightmare_ingot.name=Nightmare Ingot
+item.nightmare_apple.name=Nightmare Apple
+item.nightmare_dust.name=Nightmare Dust
+
+tile.sample_ore.name=Sample Fancy-Named Ore Block
+tile.sample_ore_nether.name=Sample Nether Ore
+tile.sample_ore_end.name=Sample End Ore
+
+tile.night_planks.name=Night Planks
+tile.night_planks_stairs.name=Night Planks Stairs
+tile.night_planks_slab_half.name=Night Planks Slab
+
+itemGroup.initials_tab=Initials Mod
+
+item.sample_helmet.name=Nightmare Helmet
+item.sample_chestplate.name=Nightmare Chestplate
+item.sample_leggings.name=Nightmare Leggings
+item.sample_boots.name=Nightmare Boots
+
+item.sample_pickaxe.name=Nightmare Pickaxe

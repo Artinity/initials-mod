@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_gate_closed",
+    "textures": {
+        "texture": "in:blocks/night_planks"
+    }
+}

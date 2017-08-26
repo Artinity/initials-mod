@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "in:night_planks" },
+        "half=top": { "model": "in:night_planks" }
+    }
+}
